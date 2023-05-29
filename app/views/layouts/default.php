@@ -4,8 +4,8 @@ use \CORE\View;
 
 /** @var $this View */
 
-$this->getPart('parts/header');
-echo $this->content;
-$this->getPart('parts/footer');
 ?>
+<?php $this->getPart('parts/header');?>
+<?php echo $this->content ?>
+<?php $this->getPart('parts/footer');?>
 

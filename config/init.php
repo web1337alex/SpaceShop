@@ -12,8 +12,10 @@ define("LOGS", ROOT . '/tmp/logs');
 define("CONFIG", ROOT . '/config');
 
 define("LAYOUT", 'default');
-define("PATH", 'http://spacenotes-framework.loc');
-define("ADMIN", 'http://spacenotes-framework.loc/admin');
+define("PATH", 'http://spaceshop.loc/');
+define("PUBLIC_PATH", PATH . "public");
+define("ASSETS", PUBLIC_PATH . "/assets");
+define("ADMIN", 'http://spaceshop.loc/admin');
 define("NO_IMAGE", 'uploads/no_image.jpg');
 
 require_once ROOT . '/vendor/autoload.php';

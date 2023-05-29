@@ -208,3 +208,19 @@
 ======
 [2023-05-07 02:10:07] Текст ошибки: compact(): Undefined variable $names | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 15
 ======
+[2023-05-51 05:57:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Router.php | Строка: 59
+======
+[2023-05-12 06:35:12] Текст ошибки: Class "app\controllers\AppController" not found | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 8
+======
+[2023-05-13 06:35:13] Текст ошибки: Class "app\controllers\AppController" not found | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 8
+======
+[2023-05-54 06:35:54] Текст ошибки: Class "app\controllers\AppController" not found | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 5
+======
+[2023-05-55 06:35:55] Текст ошибки: Class "app\controllers\AppController" not found | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 5
+======
+[2023-05-16 06:37:16] Текст ошибки: Class "app\controllers\AppController" not found | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 8
+======
+[2023-05-17 06:37:17] Текст ошибки: Class "app\controllers\AppController" not found | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 8
+======
+[2023-05-17 06:37:17] Текст ошибки: Class "app\controllers\AppController" not found | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 8
+======
