@@ -37,6 +37,9 @@ class Router
     {
         $url = self::removeQueryString($url);
         if (self::matchRoute($url)){
+            if(!empty(self::$route['lang'])){
+                App::$app->setProperty('lang', self::$route['lang']);
+            }
             $controller = 'App\controllers\\' . self::$route['admin_prefix'] . self::$route['controller'] . 'Controller';
             if(class_exists($controller)){
 
