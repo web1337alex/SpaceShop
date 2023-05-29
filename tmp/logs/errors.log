@@ -382,3 +382,7 @@
 ======
 [2023-05-49 14:05:49] Текст ошибки: Язык fr не установлен на сайте | Файл: C:\OSPanel\domains\spaceshop.loc\app\widjets\language\Language.php | Строка: 39
 ======
+[2023-05-01 15:01:01] Текст ошибки: require_once(C:\OSPanel\domains\spaceshop.loc\app\widjets\languagelang_tpl.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\spaceshop.loc\app\widjets\language\Language.php | Строка: 52
+======
+[2023-05-59 15:10:59] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\spaceshop.loc\app\widjets\language\lang_tpl.php | Строка: 3
+======

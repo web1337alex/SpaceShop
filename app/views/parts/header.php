@@ -2,6 +2,7 @@
 
 use \CORE\View;
 use CORE\App;
+use App\widjets\Language\Language;
 
 /** @var $this View */
 
@@ -60,20 +61,7 @@ use CORE\App;
                             <li><a class="dropdown-item" href="#">Регистрация</a></li>
                         </ul>
                     </div>
-
-                    <div class="dropdown d-inline-block">
-                        <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown">
-                            <img src="<?=ASSETS?>/img/ru.png" alt="">
-                        </a>
-                        <ul class="dropdown-menu" id="languages">
-                            <li>
-                                <button class="dropdown-item" data-langcode="en">
-                                    <img src="<?=ASSETS?>/img/en.png" alt="">
-                                    English</button>
-                            </li>
-                        </ul>
-                    </div>
-
+                    <?php new Language();?>
                 </div>
             </div>
         </div>

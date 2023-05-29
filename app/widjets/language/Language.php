@@ -13,13 +13,15 @@ class Language
 
     public function __construct()
     {
-        $this->tpl = __DIR__ . 'lang_tpl.php';
+        $this->tpl = __DIR__ . '\lang_tpl.php';
         $this->run();
     }
 
     protected function run()
     {
-
+        $this->languages = App::$app->getProperty('languages');
+        $this->language = App::$app->getProperty('language');
+        echo $this->getHTML();
     }
 
     public static function getLanguageList(): array
@@ -42,6 +44,13 @@ class Language
         $langInfo = $languages[$key];
         $langInfo['code'] = $key;
         return $langInfo;
+    }
+
+    protected function getHTML(): string
+    {
+        ob_start();
+        require_once $this->tpl;
+        return ob_get_clean();
     }
 
 }

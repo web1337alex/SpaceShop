@@ -17,5 +17,6 @@ define("PUBLIC_PATH", PATH . "public");
 define("ASSETS", PUBLIC_PATH . "/assets");
 define("ADMIN", 'http://spaceshop.loc/admin');
 define("NO_IMAGE", 'uploads/no_image.jpg');
+define("WIDJETS", PATH . 'app/widjets');
 
 require_once ROOT . '/vendor/autoload.php';
