@@ -334,3 +334,5 @@
 ======
 [2023-05-28 07:42:28] Текст ошибки: syntax error, unexpected token "endif" | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 7
 ======
+[2023-05-01 10:43:01] Текст ошибки: Undefined array key "exeprt" | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 50
+======
