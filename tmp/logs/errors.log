@@ -386,3 +386,33 @@
 ======
 [2023-05-59 15:10:59] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\spaceshop.loc\app\widjets\language\lang_tpl.php | Строка: 3
 ======
+[2023-05-19 17:39:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Router.php | Строка: 62
+======
+[2023-05-37 17:39:37] Текст ошибки: Контроллер App\controllers\LanguageController не найден | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Router.php | Строка: 59
+======
+[2023-05-08 17:40:08] Текст ошибки: Контроллер App\controllers\LanguageController не найден | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Router.php | Строка: 59
+======
+[2023-05-52 17:40:52] Текст ошибки: Контроллер App\controllers\LanguageController не найден | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Router.php | Строка: 59
+======
+[2023-05-06 17:41:06] Текст ошибки: Не найден вид C:\OSPanel\domains\spaceshop.loc/app/views/Language/change.php | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\View.php | Строка: 36
+======
+[2023-05-24 17:48:24] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Router.php | Строка: 62
+======
+[2023-05-34 17:54:34] Текст ошибки: syntax error, unexpected token ";", expecting ")" | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\LanguageController.php | Строка: 10
+======
+[2023-05-15 18:06:15] Текст ошибки: Undefined array key "HTTP_REFERER" | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\LanguageController.php | Строка: 15
+======
+[2023-05-49 18:06:49] Текст ошибки: Undefined array key "HTTP_REFERER" | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\LanguageController.php | Строка: 15
+======
+[2023-05-40 18:22:40] Текст ошибки: Undefined array key "HTTP_REFERER" | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\LanguageController.php | Строка: 15
+======
+[2023-05-10 18:24:10] Текст ошибки: Undefined array key "HTTP_REFERER" | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\LanguageController.php | Строка: 15
+======
+[2023-05-18 18:25:18] Текст ошибки: Undefined array key "HTTP_REFERER" | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\LanguageController.php | Строка: 15
+======
+[2023-05-19 18:25:19] Текст ошибки: Undefined array key "HTTP_REFERER" | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\LanguageController.php | Строка: 15
+======
+[2023-05-13 18:26:13] Текст ошибки: Undefined array key "HTTP_REFERER" | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\LanguageController.php | Строка: 15
+======
+[2023-05-14 18:26:14] Текст ошибки: Undefined array key "HTTP_REFERER" | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\LanguageController.php | Строка: 15
+======

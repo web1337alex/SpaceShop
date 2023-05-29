@@ -32,16 +32,12 @@ class View
             ob_start();
             require_once $viewFile;
             $this->content = ob_get_clean();
-        } else {
-            throw new \Exception("Не найден вид {$viewFile}", 500);
         }
 
         if(false !== $this->layout){
             $layoutFile = APP . "/views/layouts/{$this->layout}.php";
             if(is_file($layoutFile)){
                 require_once $layoutFile;
-            } else{
-                throw new \Exception("Не найден шаблон {$layoutFile}");
             }
         }
     }

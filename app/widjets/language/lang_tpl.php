@@ -8,7 +8,7 @@
     </a>
     <ul class="dropdown-menu" id="languages">
         <?php foreach ($this->languages as $k => $v):?>
-            <?if(App::$app->getProperty('language')['code'] == $k) continue;?>
+            <?php if(App::$app->getProperty('language')['code'] == $k) continue;?>
             <li>
                 <button class="dropdown-item" data-langcode="<?=$k?>">
                     <img src="<?=WIDJETS?>/language/img/<?=$k?>.png" alt="">
