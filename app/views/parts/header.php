@@ -1,13 +1,14 @@
 <?php
 
 use \CORE\View;
+use CORE\App;
 
 /** @var $this View */
 
 ?>
 
 <!doctype html>
-<html lang="en">
+<html lang="ru">
 <head>
     <base href="/">
     <meta charset="utf-8">
@@ -83,7 +84,7 @@ use \CORE\View;
 
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container-fluid p-0">
-                    <a class="navbar-brand" href="index.html">Shop Brand</a>
+                    <a class="navbar-brand" href="/"><?= App::$app->getProperty('site_name'); ?></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>

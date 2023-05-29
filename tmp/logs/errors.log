@@ -336,3 +336,35 @@
 ======
 [2023-05-01 10:43:01] Текст ошибки: Undefined array key "exeprt" | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 50
 ======
+[2023-05-07 11:27:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Router.php | Строка: 59
+======
+[2023-05-01 11:31:01] Текст ошибки: Не удалось найти модель App\models\Product | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Controller.php | Строка: 29
+======
+[2023-05-01 11:31:01] Текст ошибки: Не удалось найти модель App\models\Product | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Controller.php | Строка: 29
+======
+[2023-05-02 11:31:02] Текст ошибки: Не удалось найти модель App\models\Product | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Controller.php | Строка: 29
+======
+[2023-05-33 11:31:33] Текст ошибки: Не удалось найти модель App\models\Product | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Controller.php | Строка: 29
+======
+[2023-05-33 11:31:33] Текст ошибки: Не удалось найти модель App\models\Product | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Controller.php | Строка: 29
+======
+[2023-05-27 11:34:27] Текст ошибки: Не найден вид C:\OSPanel\domains\spaceshop.loc/app/views/Product/view.php | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\View.php | Строка: 36
+======
+[2023-05-03 11:35:03] Текст ошибки: Call to a member function getDatabase() on null | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\View.php | Строка: 58
+======
+[2023-05-29 11:35:29] Текст ошибки: Не найден вид C:\OSPanel\domains\spaceshop.loc/app/views/Product/view.php | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\View.php | Строка: 36
+======
+[2023-05-13 11:36:13] Текст ошибки: Call to a member function getDatabase() on null | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\View.php | Строка: 56
+======
+[2023-05-34 11:36:34] Текст ошибки: Не найден вид C:\OSPanel\domains\spaceshop.loc/app/views/Product/view.php | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\View.php | Строка: 36
+======
+[2023-05-15 11:38:15] Текст ошибки: Не найдена модель для App\models\Product | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Controller.php | Строка: 29
+======
+[2023-05-10 11:41:10] Текст ошибки: Не найдена модель для App\models\Product | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Controller.php | Строка: 29
+======
+[2023-05-24 11:43:24] Текст ошибки: Не найдена модель для App\models\Product | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Controller.php | Строка: 29
+======
+[2023-05-53 11:43:53] Текст ошибки: Не найдена модель для App\models\Product | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Controller.php | Строка: 29
+======
+[2023-05-35 13:05:35] Текст ошибки: Call to a member function getDatabase() on null | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\View.php | Строка: 60
+======
