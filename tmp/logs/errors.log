@@ -1,0 +1,210 @@
+[2023-05-19 18:54:19] Текст ошибки: Undefined variable $zapros1337 | Файл: C:\OSPanel\domains\spacenotes-framework.loc\public\index.php | Строка: 12
+======
+[2023-05-22 18:54:22] Текст ошибки: Undefined variable $zapros1337 | Файл: C:\OSPanel\domains\spacenotes-framework.loc\public\index.php | Строка: 12
+======
+[2023-05-51 18:54:51] Текст ошибки: Ошибка возникла | Файл: C:\OSPanel\domains\spacenotes-framework.loc\public\index.php | Строка: 11
+======
+[2023-05-47 18:55:47] Текст ошибки: Ошибка возникла | Файл: C:\OSPanel\domains\spacenotes-framework.loc\public\index.php | Строка: 11
+======
+[2023-05-50 18:56:50] Текст ошибки: Ошибка возникла | Файл: C:\OSPanel\domains\spacenotes-framework.loc\public\index.php | Строка: 11
+======
+[2023-05-13 18:57:13] Текст ошибки: Ошибка возникла | Файл: C:\OSPanel\domains\spacenotes-framework.loc\public\index.php | Строка: 11
+======
+[2023-05-14 18:57:14] Текст ошибки: Ошибка возникла | Файл: C:\OSPanel\domains\spacenotes-framework.loc\public\index.php | Строка: 11
+======
+[2023-05-14 18:57:14] Текст ошибки: Ошибка возникла | Файл: C:\OSPanel\domains\spacenotes-framework.loc\public\index.php | Строка: 11
+======
+[2023-05-18 18:57:18] Текст ошибки: Ошибка возникла | Файл: C:\OSPanel\domains\spacenotes-framework.loc\public\index.php | Строка: 11
+======
+[2023-05-46 18:58:46] Текст ошибки: Ошибка возникла | Файл: C:\OSPanel\domains\spacenotes-framework.loc\public\index.php | Строка: 11
+======
+[2023-05-49 18:58:49] Текст ошибки: Ошибка возникла | Файл: C:\OSPanel\domains\spacenotes-framework.loc\public\index.php | Строка: 11
+======
+[2023-05-41 21:45:41] Текст ошибки: CORE\Router::matchRoute(): Return value must be of type bool, none returned | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 41
+======
+[2023-05-34 22:19:34] Текст ошибки: Undefined array key "admin_prefix" | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 29
+======
+[2023-05-35 22:20:35] Текст ошибки: Undefined array key "admin_prefix" | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 29
+======
+[2023-05-36 22:20:36] Текст ошибки: Undefined array key "admin_prefix" | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 29
+======
+[2023-05-25 22:24:25] Текст ошибки: Undefined array key "admin_prefix" | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 29
+======
+[2023-05-14 22:25:14] Текст ошибки: Undefined array key "admin_prefix" | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 29
+======
+[2023-05-25 22:33:25] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-38 22:33:38] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-38 22:33:38] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-38 22:34:38] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-10 22:35:10] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-11 22:35:11] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-09 22:37:09] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-10 22:37:10] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-12 22:38:12] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-13 22:38:13] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-13 22:39:13] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-14 22:39:14] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-05 22:40:05] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-51 22:40:51] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 39
+======
+[2023-05-36 22:43:36] Текст ошибки: Контроллер App\controllers\PageController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-08 22:44:08] Текст ошибки: Метод App\controllers\PageController::viewAction не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 35
+======
+[2023-05-52 22:44:52] Текст ошибки: Контроллер App\controllers\admin\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-53 22:44:53] Текст ошибки: Контроллер App\controllers\admin\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
+======
+[2023-05-00 23:00:00] Текст ошибки: Контроллер App\controllers\ProductController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 50
+======
+[2023-05-02 23:00:02] Текст ошибки: Контроллер App\controllers\ProductController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 50
+======
+[2023-05-11 23:00:11] Текст ошибки: Контроллер App\controllers\ProductController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 50
+======
+[2023-05-15 00:47:15] Текст ошибки: Undefined array key "contoller" | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 21
+======
+[2023-05-42 01:16:42] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/Main/index.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 31
+======
+[2023-05-27 01:17:27] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/Main/index.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 31
+======
+[2023-05-56 01:17:56] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/Main/index.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 31
+======
+[2023-05-02 01:24:02] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/layout/snShop.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 41
+======
+[2023-05-50 01:24:50] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/layout/test.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 41
+======
+[2023-05-42 01:25:42] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/layout/snShop.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 41
+======
+[2023-05-50 01:26:50] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/layout/snShop.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 41
+======
+[2023-05-51 01:26:51] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/layout/snShop.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 41
+======
+[2023-05-51 01:26:51] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/layout/snShop.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 41
+======
+[2023-05-36 01:23:36] Текст ошибки: Call to a member function find() on null | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+======
+[2023-05-38 01:25:38] Текст ошибки: Соединение успешно установлено | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 18
+======
+[2023-05-05 01:26:05] Текст ошибки: Call to a member function find() on null | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+======
+[2023-05-13 01:27:13] Текст ошибки: Call to a member function find() on null | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+======
+[2023-05-13 01:27:13] Текст ошибки: Call to a member function find() on null | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+======
+[2023-05-31 01:28:31] Текст ошибки: syntax error, unexpected token "}" | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-47 01:28:47] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
+======
+[2023-05-35 01:29:35] Текст ошибки: Не удалось найти модель C:\OSPanel\domains\spacenotes-framework.loc\app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
+======
+[2023-05-38 01:30:38] Текст ошибки: Typed property CORE\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
+======
+[2023-05-54 01:30:54] Текст ошибки: Не удалось найти модель C:\OSPanel\domains\spacenotes-framework.loc\app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
+======
+[2023-05-01 01:33:01] Текст ошибки: Class "C:\OSPanel\domains\spacenotes-framework.loc\app\models\Main.php" not found | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 23
+======
+[2023-05-53 01:34:53] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
+======
+[2023-05-28 01:35:28] Текст ошибки: Не удалось найти модель C:\OSPanel\domains\spacenotes-framework.loc\app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
+======
+[2023-05-58 01:36:58] Текст ошибки: Class "\app\models\Main" not found | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 24
+======
+[2023-05-17 01:37:17] Текст ошибки: Не удалось найти файл модели C:\OSPanel\domains\spacenotes-framework.locapp\models\Main.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-37 01:37:37] Текст ошибки: Class "app\models\Main" not found | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 24
+======
+[2023-05-14 01:38:14] Текст ошибки: Call to a member function find() on null | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+======
+[2023-05-39 01:41:39] Текст ошибки: Не найти класс модели app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 27
+======
+[2023-05-41 01:41:41] Текст ошибки: Не найти класс модели app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 27
+======
+[2023-05-48 01:43:48] Текст ошибки: Не удалось найти файл модели C:\OSPanel\domains\spacenotes-framework.loc\Main.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 32
+======
+[2023-05-40 01:44:40] Текст ошибки: Не найти класс модели Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 28
+======
+[2023-05-32 01:45:32] Текст ошибки: Не найти класс модели Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 29
+======
+[2023-05-33 01:45:33] Текст ошибки: Не найти класс модели Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 29
+======
+[2023-05-33 01:45:33] Текст ошибки: Не найти класс модели Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 29
+======
+[2023-05-33 01:45:33] Текст ошибки: Не найти класс модели Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 29
+======
+[2023-05-33 01:45:33] Текст ошибки: Не найти класс модели Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 29
+======
+[2023-05-59 01:45:59] Текст ошибки: Не удалось найти класс модели app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 29
+======
+[2023-05-34 01:48:34] Текст ошибки: Call to a member function find() on null | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+======
+[2023-05-54 01:50:54] Текст ошибки: Call to a member function find() on null | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+======
+[2023-05-02 01:55:02] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-50 01:57:50] Текст ошибки: Typed property CORE\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 12
+======
+[2023-05-41 01:59:41] Текст ошибки: Typed property CORE\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 12
+======
+[2023-05-18 02:00:18] Текст ошибки: Typed property CORE\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 12
+======
+[2023-05-19 02:00:19] Текст ошибки: Typed property CORE\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 12
+======
+[2023-05-32 02:00:32] Текст ошибки: compact(): Undefined variable $names | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 14
+======
+[2023-05-40 02:00:40] Текст ошибки: Undefined variable $names | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-41 02:01:41] Текст ошибки: Call to undefined method App\controllers\MainController::getModel() | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 46
+======
+[2023-05-05 02:03:05] Текст ошибки: syntax error, unexpected token "/" | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-14 02:03:14] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-12 02:04:12] Текст ошибки: Class "App\controllers\Controller" not found | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 8
+======
+[2023-05-44 02:04:44] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-02 02:05:02] Текст ошибки: Контроллер App\controllers\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 56
+======
+[2023-05-48 02:05:48] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-00 02:06:00] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-01 02:06:01] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-09 02:07:09] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-10 02:07:10] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-10 02:07:10] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-11 02:07:11] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-11 02:07:11] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-11 02:07:11] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 26
+======
+[2023-05-42 02:07:42] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
+======
+[2023-05-43 02:07:43] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
+======
+[2023-05-43 02:07:43] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
+======
+[2023-05-44 02:07:44] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
+======
+[2023-05-44 02:07:44] Текст ошибки: Не удалось найти модель app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
+======
+[2023-05-07 02:10:07] Текст ошибки: compact(): Undefined variable $names | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 15
+======
