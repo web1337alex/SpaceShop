@@ -224,3 +224,113 @@
 ======
 [2023-05-17 06:37:17] Текст ошибки: Class "app\controllers\AppController" not found | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 8
 ======
+[2023-05-20 06:56:20] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-10 06:57:10] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-37 06:58:37] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-29 06:59:29] Текст ошибки: Undefined property: CORE\View::$data | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-59 06:59:59] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-00 07:00:00] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-01 07:00:01] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-01 07:00:01] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-18 07:00:18] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-19 07:00:19] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-19 07:00:19] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-46 07:00:46] Текст ошибки: Undefined variable $slider | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-47 07:00:47] Текст ошибки: Undefined variable $slider | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-47 07:00:47] Текст ошибки: Undefined variable $slider | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-47 07:00:47] Текст ошибки: Undefined variable $slider | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-47 07:00:47] Текст ошибки: Undefined variable $slider | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-57 07:02:57] Текст ошибки: Cannot assign string to property CORE\Controller::$data of type array | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Controller.php | Строка: 40
+======
+[2023-05-59 07:02:59] Текст ошибки: Cannot assign string to property CORE\Controller::$data of type array | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Controller.php | Строка: 40
+======
+[2023-05-50 07:03:50] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-38 07:04:38] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'spaceshop.slides' doesn't exist | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+======
+[2023-05-39 07:04:39] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'spaceshop.slides' doesn't exist | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+======
+[2023-05-39 07:04:39] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'spaceshop.slides' doesn't exist | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+======
+[2023-05-39 07:07:39] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-03 07:08:03] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-04 07:08:04] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-04 07:08:04] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-05 07:08:05] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-05 07:08:05] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-05 07:08:05] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-05 07:08:05] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-22 07:08:22] Текст ошибки: Unclosed '{' on line 11 does not match ')' | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 13
+======
+[2023-05-51 07:08:51] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-52 07:08:52] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-02 07:10:02] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-16 07:24:16] Текст ошибки: Undefined property: CORE\View::$data | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\View.php | Строка: 25
+======
+[2023-05-34 07:29:34] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-06 07:30:06] Текст ошибки: Cannot assign string to property CORE\Controller::$data of type array | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Controller.php | Строка: 41
+======
+[2023-05-28 07:30:28] Текст ошибки: compact(): Undefined variable $qu | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 14
+======
+[2023-05-52 07:30:52] Текст ошибки: compact(): Undefined variable $qu | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 14
+======
+[2023-05-53 07:30:53] Текст ошибки: compact(): Undefined variable $qu | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 14
+======
+[2023-05-15 07:31:15] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 2
+======
+[2023-05-41 07:31:41] Текст ошибки: Undefined variable $qu | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 4
+======
+[2023-05-00 07:32:00] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 4
+======
+[2023-05-01 07:32:01] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 4
+======
+[2023-05-17 07:32:17] Текст ошибки: compact(): Undefined variable $qu | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 14
+======
+[2023-05-17 07:32:17] Текст ошибки: compact(): Undefined variable $qu | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 14
+======
+[2023-05-40 07:32:40] Текст ошибки: compact(): Undefined variable $123 | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\MainController.php | Строка: 14
+======
+[2023-05-56 07:32:56] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 4
+======
+[2023-05-15 07:33:15] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 4
+======
+[2023-05-16 07:33:16] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 4
+======
+[2023-05-16 07:33:16] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 4
+======
+[2023-05-16 07:33:16] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 4
+======
+[2023-05-11 07:34:11] Текст ошибки: Undefined variable $slides | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 4
+======
+[2023-05-13 07:42:13] Текст ошибки: syntax error, unexpected token "endif" | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 7
+======
+[2023-05-28 07:42:28] Текст ошибки: syntax error, unexpected token "endif" | Файл: C:\OSPanel\domains\spaceshop.loc\app\views\Main\index.php | Строка: 7
+======

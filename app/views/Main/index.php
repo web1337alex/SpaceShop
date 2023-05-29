@@ -1,21 +1,18 @@
-<div class="container-fluid my-carousel">
 
+<?php if(!empty($slides)):?>
+<div class="container-fluid my-carousel">
     <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
         <div class="carousel-indicators">
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <?php for ($i = 0; $i < count($slides); $i++): ?>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="<?=$i?>>" class="<?php if($i === 0):?>active<?php endif;?>" aria-current="true" aria-label="Slide <?=($i + 1)?>"></button>
+            <?php endfor;?>
         </div>
         <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="<?=ASSETS?>/img/1.jpg" class="d-block w-100" alt="...">
-            </div>
-            <div class="carousel-item">
-                <img src="<?=ASSETS?>/img/2.jpg" class="d-block w-100" alt="...">
-            </div>
-            <div class="carousel-item">
-                <img src="<?=ASSETS?>/img/3.jpg" class="d-block w-100" alt="...">
-            </div>
+            <?php $i = 1; foreach ($slides as $slide):?>
+                <div class="carousel-item <?php if($i === 1):?>active<?php endif;?>">
+                    <img src="<?= rtrim(PATH, '/') . $slide->img ?>" class="d-block w-100" alt="">
+                </div>
+            <?php $i++; endforeach;?>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"  data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -26,9 +23,8 @@
             <span class="visually-hidden">Next</span>
         </button>
     </div>
-
-
 </div>
+<?php endif?>
 
 <section class="featured-products">
     <div class="container">
