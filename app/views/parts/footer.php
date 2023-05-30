@@ -111,8 +111,6 @@ use \CORE\View;
     </div>
 </div>
 
-<p>TEST</p>
-
 <script type="text/javascript">
     const PATH = "<?=PATH?>";
 </script>
