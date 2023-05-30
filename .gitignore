@@ -1,0 +1,4 @@
+/.idea
+config/db_config.php
+/vendor/gabordemooij
+/tmp/*/*
