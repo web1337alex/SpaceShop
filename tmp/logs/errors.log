@@ -416,5 +416,3 @@
 ======
 [2023-05-14 18:26:14] Текст ошибки: Undefined array key "HTTP_REFERER" | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\LanguageController.php | Строка: 15
 ======
-[2023-05-46 15:32:46] Текст ошибки: Ошибка соединения с базой данных | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Database.php | Строка: 16
-======
