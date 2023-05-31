@@ -55,3 +55,11 @@ function post($key, $type = 's')
         return trim($$param);
     }
 }
+
+function __($key){
+    echo \CORE\Language::get($key);
+}
+
+function ___($key){
+    return \CORE\Language::get($key);
+}

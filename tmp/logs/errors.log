@@ -416,3 +416,7 @@
 ======
 [2023-05-14 18:26:14] Текст ошибки: Undefined array key "HTTP_REFERER" | Файл: C:\OSPanel\domains\spaceshop.loc\app\controllers\LanguageController.php | Строка: 15
 ======
+[2023-05-09 23:57:09] Текст ошибки: syntax error, unexpected identifier "controller" | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Language.php | Строка: 14
+======
+[2023-06-06 00:00:06] Текст ошибки: Cannot assign int to property CORE\Language::$langView of type array | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Language.php | Строка: 23
+======

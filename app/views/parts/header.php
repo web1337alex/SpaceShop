@@ -37,7 +37,7 @@ use App\widjets\Language\Language;
                 <div class="col text-end icons">
                     <form>
                         <div class="input-group" id="search">
-                            <input type="text" class="form-control" placeholder="Search..." name="s">
+                            <input type="text" class="form-control" placeholder="<?__('search')?>" name="s">
                             <button class="btn close-search" type="button"><i class="fas fa-times"></i></i></button>
                             <button class="btn" type="submit"><i class="fas fa-search"></i></button>
                         </div>
@@ -57,8 +57,8 @@ use App\widjets\Language\Language;
                             <i class="far fa-user"></i>
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Авторизация</a></li>
-                            <li><a class="dropdown-item" href="#">Регистрация</a></li>
+                            <li><a class="dropdown-item" href="#"><?__('auth')?></a></li>
+                            <li><a class="dropdown-item" href="#"><?__('reg')?></a></li>
                         </ul>
                     </div>
                     <?php new Language();?>

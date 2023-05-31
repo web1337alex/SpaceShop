@@ -14,7 +14,14 @@ class MainController extends AppController
         $lang = App::$app->getProperty('language');
         $products = $this->model->getHits($lang, 6);
         $this->set(compact('slides', 'products'));
-        $this->setMeta("Главная страница", "Описание в пару слов", "ключевые слова, ключевики");
+        $this->setMeta(
+            ___('main_index_meta_title'),
+            ___('main_index_meta_description'),
+            ___('main_index_meta_keywords')
+        );
+
+
+
 
 
     }
