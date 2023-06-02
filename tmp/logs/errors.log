@@ -420,3 +420,5 @@
 ======
 [2023-06-06 00:00:06] Текст ошибки: Cannot assign int to property CORE\Language::$langView of type array | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Language.php | Строка: 23
 ======
+[2023-06-34 00:18:34] Текст ошибки: Undefined property: App\widjets\menu\Menu::$menuHtml | Файл: C:\OSPanel\domains\spaceshop.loc\app\widjets\menu\Menu.php | Строка: 55
+======

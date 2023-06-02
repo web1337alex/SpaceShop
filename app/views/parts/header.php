@@ -1,5 +1,6 @@
 <?php
 
+use App\widjets\menu\Menu;
 use \CORE\View;
 use CORE\App;
 use App\widjets\Language\Language;
@@ -78,31 +79,11 @@ use App\widjets\Language\Language;
                     </button>
 
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                            <li class="nav-item">
-                                <a class="nav-link" href="category.html">Компьютеры</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="category.html">Планшеты</a>
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Ноутбуки
-                                </a>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><a class="dropdown-item" href="category.html">Mac</a></li>
-                                    <li><a class="dropdown-item" href="category.html">Windows</a></li>
-                                </ul>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="category.html">Телефоны</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="category.html">Камеры</a>
-                            </li>
-                        </ul>
+                        <?php new Menu([
+                            'class' => 'navbar-nav ms-auto mb-2 mb-lg-0',
+                            'cache' => 3600
+                        ]);?>
                     </div>
-
                 </div>
             </nav>
 

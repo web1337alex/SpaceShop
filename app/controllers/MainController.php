@@ -11,14 +11,8 @@ class MainController extends AppController
 {
     public function indexAction()
     {
-
-//        $test = 'Hello world';
-//        $cache = Cache::getInstance();
-//        $cache->set('test', $test, 30);
-
-
-        $slides = R::findAll('slider');
         $lang = App::$app->getProperty('language');
+        $slides = R::findAll('slider');
         $products = $this->model->getHits($lang, 6);
         $this->set(compact('slides', 'products'));
         $this->setMeta(
