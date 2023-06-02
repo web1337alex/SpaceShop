@@ -1,5 +1,27 @@
 $(function() {
 
+	// Cart
+
+	$('.add-to-cart').on('click', function(e){
+		e.preventDefault();
+		const id = $(this).data('id');
+		const quantity = $('#input-quantity').val() ? $('#input-quantity').val() : 1;
+		const $this = $(this);
+		$.ajax({
+			url: 'cart/add',
+			type: 'GET',
+			data: {id: id, quantity: quantity},
+			success: function (res){
+				console.log(res);
+			},
+			error: function (){
+				alert("Error Add to cart");
+			}
+		});
+	});
+
+	// Search
+
 	$('.open-search').click(function(e) {
 		e.preventDefault();
 		$('#search').addClass('active');
@@ -42,7 +64,6 @@ $(function() {
 	$('#languages button').on('click', function () {
 		const langCode = $(this).data('langcode');
 		window.location = PATH + 'language/change?lang=' + langCode;
-
 	});
 
 });

@@ -422,3 +422,7 @@
 ======
 [2023-06-34 00:18:34] Текст ошибки: Undefined property: App\widjets\menu\Menu::$menuHtml | Файл: C:\OSPanel\domains\spaceshop.loc\app\widjets\menu\Menu.php | Строка: 55
 ======
+[2023-06-42 00:41:42] Текст ошибки: Контроллер App\controllers\CartController не найден | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Router.php | Строка: 59
+======
+[2023-06-45 00:50:45] Текст ошибки: Контроллер App\controllers\CartController не найден | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Router.php | Строка: 59
+======
