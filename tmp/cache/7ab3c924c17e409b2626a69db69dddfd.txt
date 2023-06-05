@@ -14,4 +14,4 @@ a:2:{s:4:"data";s:821:"<li class="nav-item ">
     <a class="nav-link " href="category/telefony" >Phones</a>
     </li><li class="nav-item ">
     <a class="nav-link " href="category/kamery" >Cameras</a>
-    </li>";s:7:"endTime";i:1685749700;}
+    </li>";s:7:"endTime";i:1685842597;}

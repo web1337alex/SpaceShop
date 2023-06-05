@@ -8,6 +8,7 @@
 use \CORE\View;
 
 $this->getPart('parts/slider', compact('slides'));
+debug($_SESSION);
 $this->getPart('parts/main_products', compact('products'));
 
 ?>

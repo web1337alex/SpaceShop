@@ -426,3 +426,7 @@
 ======
 [2023-06-45 00:50:45] Текст ошибки: Контроллер App\controllers\CartController не найден | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Router.php | Строка: 59
 ======
+[2023-06-44 02:00:44] Текст ошибки: Контроллер App\controllers\CategoryController не найден | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Router.php | Строка: 59
+======
+[2023-06-48 02:00:48] Текст ошибки: Контроллер App\controllers\CategoryController не найден | Файл: C:\OSPanel\domains\spaceshop.loc\vendor\CORE\Router.php | Строка: 59
+======

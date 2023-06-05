@@ -4,10 +4,10 @@ namespace App\controllers;
 
 use CORE\App;
 
-/** @property Cart Model */
+/** @property Cart $model */
 class CartController extends AppController
 {
-    public function addAction()
+    public function addAction(): bool
     {
         $lang = App::$app->getProperty("language");
         $id = get("id");
@@ -18,7 +18,16 @@ class CartController extends AppController
         }
 
         $product = $this->model->getProduct($id, $lang);
-        debug($product, 1);
 
+        if(!$product || empty($product)){
+            return false;
+        }
+
+        $this->model->addToCart($product, $quantity);
+        if($this->isAjax()){
+            debug($_SESSION['cart'], 1);
+        }
+        redirect();
+        return true;
     }
 }
